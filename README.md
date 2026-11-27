@@ -25,7 +25,7 @@ Each paper is self-contained within its respective subdirectory. To run experime
 
 ## Citation
 
-Please refer to the individual `README.md` or `citation.bib` file inside each paper's subdirectory for the specific BibTeX citation entry.
+Please refer to the individual `README.md` file inside each paper's subdirectory for the specific BibTeX citation entry.
 
 ## License
 
