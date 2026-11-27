@@ -15,3 +15,26 @@ Dependencies:
 `majle.m` is a tool for checking majorization relations; available in https://www.mathworks.com/matlabcentral/fileexchange/26962-majorization-check .
 
 `subspacea.m` is a tool for computing principal angles; available in https://www.mathworks.com/matlabcentral/fileexchange/55-subspacea-m .
+
+## Citation
+
+If you use these numerical examples or reference the results in your research, please cite the published paper:
+
+```bibtex
+@article{zhou2023sharp,
+  title={Sharp Majorization-Type Cluster Robust Bounds for Block Filters and Eigensolvers},
+  author={Zhou, Ming and Argentati, Merico E. and Knyazev, Andrew V. and Neymeyr, Klaus},
+  journal={SIAM Journal on Matrix Analysis and Applications},
+  volume={44},
+  number={4},
+  pages={1852--1878},
+  year={2023},
+  doi={10.1137/23M1551729},
+  url={https://siam.org}
+}
+```
+
+### Preprint & Software
+
+* **arXiv Preprint:** M. Zhou, M. E. Argentati, A. V. Knyazev, and K. Neymeyr, *"Majorization-type cluster robust bounds for block filters and eigensolvers,"* [arXiv:2201.04517](https://arxiv.org/abs/2201.04517), 2022.
+* **Code Repository:** [https://github.com/lobpcg/math/tree/main/2023_Majorization-type_cluster_robust_bounds_for_block_filters_and_eigensolvers](https://github.com/lobpcg/math/tree/main/2023_Majorization-type_cluster_robust_bounds_for_block_filters_and_eigensolvers)
