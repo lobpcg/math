@@ -18,14 +18,15 @@ If you reference this work, please cite the 2026 English translation together wi
 ```bibtex
 @misc{Knyazev2026_1986mesh,
   author        = {Knyazev, Andrew V.},
-  title         = {Computation of Eigenvalues and Eigenvectors in Mesh Problems: Algorithms and Error Estimates},
+  title         = {Computation of Eigenvalues and Eigenvectors in Mesh Problems: Algorithms and Error Estimates (English translation of the 1986 Russian monograph)},
   year          = {2026},
   eprint        = {2611.XXXXX},
   archivePrefix = {arXiv},
   primaryClass  = {math.NA},
   related       = {Knyazev:1986:CEE},
   relatedtype   = {translationof},
-  note          = {English translation of the original Russian monograph: Вычисление собственных значений и векторов в сеточных задачах: алгоритмы и оценки погрешности, Dept. of Numerical Mathematics, USSR Academy of Sciences (OVM AN SSSR), Moscow, 1986}
+  note          = {English translation of the original Russian monograph: A. V. Knyazev, "Vychislenie sobstvennykh znachenii i vektorov v setochnykh zadachakh: algoritmy i otsenki pogreshnosti" "Вычисление собственных значений и векторов в сеточных задачах: алгоритмы и оценки погрешности," Dept. of Numerical Mathematics, USSR Academy of Sciences (OVM AN SSSR), Moscow, 1986, LCCN 87157255. Digitized and translated with AI assistance and verified by the author. Posted with permission of the Marchuk Institute of Numerical Mathematics RAS (INM RAS). LaTeX source available at https://github.com/lobpcg/math/edit/main/2026_Computation_of_Eigenvalues_and_Eigenvectors_in_Mesh_Problems_1986},
+  abstract      = {This monograph is an authorized English translation of the author's 1986 Russian book published by the Department of Numerical Mathematics of the USSR Academy of Sciences (Moscow, 1986, LCCN 87157255). The work studies solution methods for symmetric algebraic eigenvalue problems arising from mesh discretizations, establishing convergence rate estimates for vector and subspace iterations (including auxiliary operator variants), asymptotic properties, and error estimates for the Temple-Lehmann and Rayleigh-Ritz methods, alongside an extensive bibliography.}
 }
 
 @book{Knyazev:1986:VSZ,
