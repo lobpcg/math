@@ -1,7 +1,7 @@
 # math
 math reports and related software
 
-# [Repository / Research Group / Author Name] — Research Papers & Implementations
+# [math / Andrew Knyazev] — Research Papers & Implementations
 
 This repository serves as a central archive for the source code, datasets, and supplementary materials accompanying our research papers on arXiv.
 
@@ -9,17 +9,17 @@ This repository serves as a central archive for the source code, datasets, and s
 
 | Paper Title | Venue / arXiv | Directory | Description |
 | :--- | :--- | :--- | :--- |
-| **[Paper One Title]** | [arXiv:XXXX.XXXXX](https://arxiv.org) | [`./paper-one/`](./paper-one/) | [Brief 1-sentence summary of Paper One] |
+| **[Majorization-type cluster robust bounds for block filters and eigensolvers]** | [arXiv:2201.04517](https://arxiv.org) | [`./2023_Majorization-type_cluster_robust_bounds_for_block_filters_and_eigensolvers/`](./2023_Majorization-type_cluster_robust_bounds_for_block_filters_and_eigensolvers/) | [MATLAB codes] |
 | **[Paper Two Title]** | [arXiv:YYYY.YYYYY](https://arxiv.org) | [`./paper-two/`](./paper-two/) | [Brief 1-sentence summary of Paper Two] |
 | **[Paper Three Title]** | [arXiv:ZZZZ.ZZZZZ](https://arxiv.org) | [`./paper-three/`](./paper-three/) | [Brief 1-sentence summary of Paper Three] |
 
 ## Getting Started
 
-Each paper is self-contained within its respective subdirectory. To run experiments or explore a specific project:
+Each paper is self-contained within its respective subdirectory. To run experiments or explore a specific project, e.g., Numerical examples for the paper "Majorization-type cluster robust bounds for block filters and eigensolvers" :
 
 1. Navigate to the corresponding paper directory:
    ```bash
-   cd paper-one
+   cd 2023_Majorization-type_cluster_robust_bounds_for_block_filters_and_eigensolvers
    ```
 2. Follow the setup, installation, and usage instructions in that folder's `README.md`.
 
