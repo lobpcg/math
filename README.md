@@ -31,5 +31,6 @@ Please refer to the individual `README.md` or `citation.bib` file inside each pa
 
 Unless explicitly stated otherwise within a specific subdirectory:
 
-* **Code:** All source code in this repository is licensed under the [MIT License](LICENSE).
-* **Papers, Figures, and Datasets:** All paper texts, figures, and datasets are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org).
+* **Source Code:** All code and scripts in this repository are licensed under the [MIT License](LICENSE).
+* **Papers and Figures (`.tex`, `.pdf`):** Copyright © [Year] [Author Name(s)]. All rights reserved. These files are provided for personal and academic reading only and may not be redistributed or modified without permission.
+
