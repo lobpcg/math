@@ -7,9 +7,30 @@ English translation (2026) of the 1986 Russian monograph:
 ## Abstract
 The work studies solution methods for symmetric algebraic eigenvalue problems from mesh discretizations, establishing convergence rate estimates for vector and subspace iterations (including auxiliary operator variants), asymptotic properties, and error estimates for the Temple–Lehmann and Rayleigh–Ritz methods, alongside an extensive bibliography.
 
+Analyzed k_translation_en.toc:L1-38
+
+Here is a ready-to-paste `## Contents` section for the GitHub `README.md` (remove any row for optional files you chose not to upload):
+
+```markdown
 ## Contents
-* `book.tex` — LaTeX source of the 2026 English translation (digitized and translated with AI assistance and verified by the author)
-* `book.pdf` — Compiled PDF document
+
+| File | Description |
+| --- | --- |
+| [`k_translation_en.pdf`](k_translation_en.pdf) | Compiled English translation (129 pages, XeLaTeX). |
+| [`k_translation_en.tex`](k_translation_en.tex) | Full LaTeX source (XeLaTeX, TikZ figures; mathematical misprints from the 1986 original are preserved verbatim and documented in `% [math note: ...]` comments). |
+| [`k_references.bib`](k_references.bib) | Complete BibTeX database (679 entries; 6 duplicates suppressed in the English edition via `en_skip = {1}`, leaving 673 printed references with 466 DOIs and 193 verified URLs). |
+| [`k_monograph_en.bst`](k_monograph_en.bst) | Custom `natbib` BibTeX style for the English edition (handles clickable DOIs/URLs and `en_skip` deduplication). |
+| [`k_translation_en.bbl`](k_translation_en.bbl) | Pre-built bibliography for arXiv submission (regenerated from `k_references.bib` and `k_monograph_en.bst`). |
+
+### Building from source
+
+```bash
+xelatex k_translation_en
+bibtex k_translation_en
+xelatex k_translation_en
+xelatex k_translation_en
+```
+```
 
 ## Citation
 
