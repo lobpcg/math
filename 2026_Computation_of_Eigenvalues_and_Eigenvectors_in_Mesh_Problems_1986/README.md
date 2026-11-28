@@ -11,7 +11,6 @@ Analyzed k_translation_en.toc:L1-38
 
 Here is a ready-to-paste `## Contents` section for the GitHub `README.md` (remove any row for optional files you chose not to upload):
 
-```markdown
 ## Contents
 
 | File | Description |
