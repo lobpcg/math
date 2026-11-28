@@ -7,10 +7,6 @@ English translation (2026) of the 1986 Russian monograph:
 ## Abstract
 The work studies solution methods for symmetric algebraic eigenvalue problems from mesh discretizations, establishing convergence rate estimates for vector and subspace iterations (including auxiliary operator variants), asymptotic properties, and error estimates for the Temple–Lehmann and Rayleigh–Ritz methods, alongside an extensive bibliography.
 
-Analyzed k_translation_en.toc:L1-38
-
-Here is a ready-to-paste `## Contents` section for the GitHub `README.md` (remove any row for optional files you chose not to upload):
-
 ## Contents
 
 | File | Description |
