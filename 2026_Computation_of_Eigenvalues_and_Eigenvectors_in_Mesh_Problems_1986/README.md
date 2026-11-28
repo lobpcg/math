@@ -1,4 +1,4 @@
-# Computation of Eigenvalues and Eigenvectors in Mesh Problems: Algorithms and Error Estimates
+# Computation of Eigenvalues and Eigenvectors in Mesh Problems: Algorithms and Error Estimates (English Translation of the 1986 Russian Monograph)
 
 English translation (2026) of the 1986 Russian monograph:  
 **А. В. Князев**, *Вычисление собственных значений и векторов в сеточных задачах: алгоритмы и оценки погрешности*, Отдел вычислительной математики АН СССР, Москва, 1986.
