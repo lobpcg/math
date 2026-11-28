@@ -29,7 +29,6 @@ bibtex k_translation_en
 xelatex k_translation_en
 xelatex k_translation_en
 ```
-```
 
 ## Citation
 
